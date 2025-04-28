@@ -1,0 +1,126 @@
+aziende:
+  governo:
+    ruoli:
+      - presidente
+      - vice-presidente
+      - congresso
+      - procuratore-generale
+      - procuratore
+      - magistrato
+  alto-comando:
+    ruoli:
+      - comandante-smd
+      - vice-comandante-smd
+      - vicario-smd
+    extra:
+      - cums
+      - ros
+      - covi
+      - croce-rossa
+  finanza:
+    ruoli:
+      - finanziere-generale-armata
+      - finanziere-generale-divisione
+      - finanziere-generale-brigata
+      - finanziere-colonnello
+      - finanziere-tenente-colonnello
+      - finanziere-maggiore
+      - finanziere-capitano
+      - finanziere-tenente
+      - finanziere-sottotenente
+      - finanziere-maresciallo-capo-qs
+      - finanziere-maresciallo-capo
+      - finanziere-maresciallo
+      - finanziere-brigadiere-capo
+      - finanziere-brigadiere
+      - finanziere-vice-brigadiere
+      - finanziere-appuntato-scelto
+      - finanziere-appuntato
+      - finanziere-scelto
+      - finanziere
+      - finanziere-allievo
+    extra:
+      - gico
+      - atpi
+  carabinieri:
+    ruoli:
+      - carabiniere-generale-armata
+      - carabiniere-generale-divisione
+      - carabiniere-generale-brigata
+      - carabiniere-colonnello
+      - carabiniere-tenente-colonnello
+      - carabiniere-maggiore
+      - carabiniere-capitano
+      - carabiniere-tenente
+      - carabiniere-sottotenente
+      - carabiniere-allievo-sottotenente
+      - carabiniere-luogotenente
+      - carabiniere-maresciallo-capo
+      - carabiniere-maresciallo
+      - carabiniere-allievo-maresciallo
+      - carabiniere-brigadiere-capo
+      - carabiniere-brigadiere
+      - carabiniere-vice-brigadiere
+      - carabiniere-appuntato-scelto
+      - carabiniere-appuntato
+      - carabiniere-scelto
+      - carabiniere
+      - cadetto
+    extra:
+      - cums
+      - ros
+      - covi
+  polizia:
+    ruoli:
+      - polizia-capo
+      - polizia-vice-capo
+      - polizia-commissario-capo
+      - polizia-commissario
+      - polizia-vice-commissario
+      - polizia-ispettore-superiore
+      - polizia-ispettore-capo
+      - polizia-ispettore
+      - polizia-vice-ispettore
+      - polizia-sovrintendente-capo-coordinatore
+      - polizia-sovrintendente-capo
+      - polizia-sovrintendente
+      - polizia-vice-sovrintendente
+      - polizia-assistente-capo
+      - polizia-assistente
+      - polizia-scelto
+      - polizia
+      - polizia-allievo
+    extra:
+      - nocs
+      - rcd
+      - ris
+  militare:
+    ruoli:
+      - militare-generale-armata
+      - militare-generale-divisione
+      - militare-generale-brigata
+      - militare-colonnello
+      - militare-tenente-colonnello
+      - militare-maggiore
+      - militare-capitano
+      - militare-tenente
+      - militare-sottotenente
+      - militare-allievo-sottotenente
+      - militare-luogotenente
+      - militare-maresciallo-capo
+      - militare-maresciallo
+      - militare-allievo-maresciallo
+      - militare-sergente-maggiore-capo
+      - militare-sergente-maggiore
+      - militare-sergente-scelto
+      - militare-sergente
+      - militare-primo-caporalmaggiore
+      - militare-caporalmaggiore
+      - militare-caporale
+      - militare
+      - cadetto
+    extra:
+      - cums
+      - sec
+      - covi
+      - croce-rossa
