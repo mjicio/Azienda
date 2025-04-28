@@ -17,7 +17,7 @@ public class DiscordManager {
 
     public void init() {
         try {
-            String token = "OTMzMzMzNjE4NDkzODkwNTkw.GWf1Df.jKvLWh5gBPbTLZgv2R6GlAE4BAjVBivrwVkLVk";
+            String token = "bot-token";
             jda = JDABuilder.createDefault(token).build();
             jda.awaitReady(); // Bloch per assicurarsi che il bot sia pronto
         } catch (InterruptedException e) {
